@@ -3,8 +3,9 @@
 ## Utrecht University
 ## Nov 2019
 
-- ###   Riccardo Bassani ([@BassaniRiccardo](https://github.com/BassaniRiccardo))
-- ###   Samuel Meyer
+- ###   Riccardo Bassani ([@BassaniRiccardo](https://github.com/BassaniRiccardo)) (all parts)
+- ###   Samuel Meyer (language part)
+- ###   David-Paul Niland (vision part)
 
 This project contains the work done in the course "Machine Learning for Human Vision and Language", at Utrecht University.
 It is made of three assignments, the first available as a pdf containing theoretical and code sections, the second and the third in the form of Jupyter Notebooks.
