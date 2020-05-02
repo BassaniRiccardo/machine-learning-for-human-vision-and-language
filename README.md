@@ -1,6 +1,10 @@
 # python-project-ML-for-human-vision-and-language
 
-Date: Nov 2019
+## Utrecht University
+## Nov 2019
+
+- ###   Riccardo Bassani ([@BassaniRiccardo](https://github.com/BassaniRiccardo))
+- ###   Samuel Meyer
 
 This project contains the work done in the course "Machine Learning for Human Vision and Language", at Utrecht University.
 It is made of three assignments, the first available as a pdf containing theoretical and code sections, the second and the third in the form of Jupyter Notebooks.
