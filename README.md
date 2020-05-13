@@ -4,7 +4,7 @@
 ## Nov 2019
 
 - ###   Riccardo Bassani ([@BassaniRiccardo](https://github.com/BassaniRiccardo)) (all parts)
-- ###   Samuel Meyer (language part)
+- ###   Samuel Meyer  ([@VolJay](https://github.com/VolJay)) (language part)
 - ###   David-Paul Niland (vision part)
 
 This project contains the work done in the course "Machine Learning for Human Vision and Language", at Utrecht University.
